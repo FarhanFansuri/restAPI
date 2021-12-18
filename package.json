@@ -1,0 +1,25 @@
+{
+  "name": "02-myapp",
+  "version": "1.0.0",
+  "description": "Belajar membuat rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanFansuri/restAPI.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "admin-farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhanFansuri/restAPI/issues"
+  },
+  "homepage": "https://github.com/FarhanFansuri/restAPI#readme"
+}
